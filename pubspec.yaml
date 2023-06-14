@@ -22,6 +22,7 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+  generate: true
   fonts:
    - family: NeumorphicIcons
      fonts:
